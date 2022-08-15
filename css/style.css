@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth!important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.item{
+    display: inline-block;
+    width: 20%;
+    border-radius: 10px;
+}
+.drop-area{
+}
